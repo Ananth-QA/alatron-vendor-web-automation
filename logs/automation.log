@@ -1,0 +1,707 @@
+2025-12-18 15:00:52 INFO  AuthPage:135 - config.properties loaded successfully
+2025-12-18 15:00:53 INFO  AuthPage:171 - Page title fetched: Run Your Rental Business Smarter
+2025-12-18 15:00:53 INFO  AuthPage:152 - Opening language dropdown
+2025-12-18 15:00:54 INFO  AuthPage:156 - Searching for language: Tamil
+2025-12-18 15:00:54 INFO  AuthPage:161 - Selecting Tamil language
+2025-12-18 15:26:40 INFO  AuthPage:30 - config.properties loaded successfully
+2025-12-18 15:26:41 INFO  AuthPage:62 - Page title fetched: Run Your Rental Business Smarter
+2025-12-18 15:26:41 INFO  AuthPage:48 - Clicking language dropdown
+2025-12-18 15:26:42 INFO  AuthPage:52 - Clicking Tamil language option
+2025-12-18 15:31:56 INFO  AuthPage:30 - config.properties loaded successfully
+2025-12-18 15:31:57 INFO  AuthPage:62 - Page title fetched: Run Your Rental Business Smarter
+2025-12-18 15:31:57 INFO  AuthPage:48 - Clicking language dropdown
+2025-12-18 15:31:57 INFO  AuthPage:52 - Clicking Tamil language option
+2025-12-18 15:31:58 INFO  AuthPage:56 - Tamil language selected
+2025-12-18 15:31:58 INFO  AuthPage:62 - Page title fetched: Run Your Rental Business Smarter
+2025-12-18 16:04:36 INFO  AuthPage:30 - config.properties loaded successfully
+2025-12-18 16:04:37 INFO  AuthPage:50 - Page title before language change: Run Your Rental Business Smarter
+2025-12-18 16:04:37 INFO  AuthPage:53 - Clicking language dropdown
+2025-12-18 16:04:37 INFO  AuthPage:58 - Clicking Tamil language option
+2025-12-18 16:04:38 INFO  AuthPage:65 - Page title after Tamil selection: Run Your Rental Business Smarter
+2025-12-18 16:04:38 INFO  AuthPage:50 - Page title before language change: Run Your Rental Business Smarter
+2025-12-18 16:04:38 INFO  AuthPage:53 - Clicking language dropdown
+2025-12-18 16:04:38 INFO  AuthPage:58 - Clicking Tamil language option
+2025-12-18 16:04:39 INFO  AuthPage:65 - Page title after Tamil selection: Run Your Rental Business Smarter
+2025-12-18 16:04:39 INFO  AuthPage:77 - Opening country code dropdown
+2025-12-18 16:04:39 INFO  AuthPage:80 - Country code selected
+2025-12-18 16:04:39 INFO  AuthPage:85 - Entering mobile number: 6354879523
+2025-12-18 16:04:40 INFO  AuthPage:93 - Mobile number entered successfully
+2025-12-18 16:04:40 INFO  AuthPage:97 - Clicking Proceed button
+2025-12-18 17:22:44 INFO  AuthPage:30 - config.properties loaded successfully
+2025-12-18 17:22:46 INFO  AuthPage:50 - Page title before language change: Run Your Rental Business Smarter
+2025-12-18 17:22:46 INFO  AuthPage:53 - Clicking language dropdown
+2025-12-18 17:22:47 INFO  AuthPage:58 - Clicking Tamil language option
+2025-12-18 17:22:48 INFO  AuthPage:65 - Page title after Tamil selection: Run Your Rental Business Smarter
+2025-12-18 17:22:48 INFO  AuthPage:50 - Page title before language change: Run Your Rental Business Smarter
+2025-12-18 17:22:48 INFO  AuthPage:53 - Clicking language dropdown
+2025-12-18 17:22:48 INFO  AuthPage:58 - Clicking Tamil language option
+2025-12-18 17:22:48 INFO  AuthPage:65 - Page title after Tamil selection: Run Your Rental Business Smarter
+2025-12-18 17:22:49 INFO  AuthPage:77 - Opening country code dropdown
+2025-12-18 17:22:49 INFO  AuthPage:80 - Country code selected
+2025-12-18 17:22:49 INFO  AuthPage:85 - Entering mobile number: 6354879523
+2025-12-18 17:22:51 INFO  AuthPage:93 - Mobile number entered successfully
+2025-12-18 17:22:51 INFO  AuthPage:97 - Clicking Proceed button
+2025-12-18 17:29:00 INFO  AuthPage:30 - config.properties loaded successfully
+2025-12-18 17:29:01 INFO  AuthPage:85 - Entering mobile number: 6354879523
+2025-12-18 17:29:01 INFO  AuthPage:93 - Mobile number entered successfully
+2025-12-18 17:29:01 INFO  AuthPage:97 - Clicking Proceed button
+2025-12-18 17:29:02 INFO  AuthPage:100 - Proceed button clicked
+2025-12-19 10:01:22 INFO  AuthPage:30 - config.properties loaded successfully
+2025-12-19 10:01:23 INFO  AuthPage:85 - Entering mobile number: 6354879523
+2025-12-19 10:01:23 INFO  AuthPage:93 - Mobile number entered successfully
+2025-12-19 10:01:23 INFO  AuthPage:97 - Clicking Proceed button
+2025-12-19 10:01:24 INFO  AuthPage:100 - Proceed button clicked
+2025-12-19 10:23:35 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 10:23:35 INFO  AuthPage:45 - Entering mobile number: 6354879523
+2025-12-19 10:23:36 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 10:23:36 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 10:23:37 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 10:23:37 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 10:23:39 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 10:23:39 INFO  AuthPage:79 - Clicking Edit Number link
+2025-12-19 10:23:39 INFO  AuthPage:82 - Edit Number clicked, returned to login page
+2025-12-19 10:23:39 INFO  AuthPage:91 - Fetched mobile number from input: +91 63548-79523
+2025-12-19 10:28:40 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 10:28:40 INFO  AuthPage:45 - Entering mobile number: 6354879523
+2025-12-19 10:28:41 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 10:28:41 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 10:28:41 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 10:28:41 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 10:28:43 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 10:28:43 INFO  AuthPage:79 - Clicking Edit Number link
+2025-12-19 10:28:43 INFO  AuthPage:82 - Edit Number clicked, returned to login page
+2025-12-19 10:28:43 INFO  AuthPage:91 - Fetched mobile number from input: +91 63548-79523
+2025-12-19 11:58:30 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 11:58:30 INFO  AuthPage:45 - Entering mobile number: 6354879523
+2025-12-19 11:58:32 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 11:58:32 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 11:58:33 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 11:58:33 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 11:58:35 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 11:58:35 INFO  AuthPage:79 - Clicking Edit Number link
+2025-12-19 11:58:35 INFO  AuthPage:82 - Edit Number clicked, returned to login page
+2025-12-19 11:58:36 INFO  AuthPage:102 - Raw number in input: +91 63548-79523
+2025-12-19 11:58:36 INFO  AuthPage:107 - Extracted pure numeric mobile number: 916354879523
+2025-12-19 11:58:36 INFO  AuthPage:111 - Clearing mobile number field
+2025-12-19 11:58:36 INFO  AuthPage:117 - Mobile number field cleared
+2025-12-19 11:58:36 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 11:58:38 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 11:58:38 INFO  AuthPage:45 - Entering mobile number: 6354879523
+2025-12-19 11:58:40 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 11:58:40 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 11:58:41 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 11:58:41 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 11:59:01 ERROR AuthPage:73 - OTP screen did not load
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'Edit Number')] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.146, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59795}, goog:processID: 7516, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59795/devtoo..., se:cdpVersion: 143.0.7499.146, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9fae6d1e177eea97fa498ded3a7d8510
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.21.0.jar:?]
+	at pages.auth.AuthPage.waitForOtpScreen(AuthPage.java:68) ~[test-classes/:?]
+	at tests.auth.VendorAuthTest.verifyCompleteVendorAuthFlow(VendorAuthTest.java:67) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.2.5.jar:3.2.5]
+2025-12-19 12:06:19 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 12:06:21 INFO  AuthPage:45 - Entering mobile number: 6354879523
+2025-12-19 12:06:22 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 12:06:22 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 12:06:23 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 12:06:23 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 12:06:26 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 12:06:26 INFO  AuthPage:79 - Clicking Edit Number link
+2025-12-19 12:06:27 INFO  AuthPage:82 - Edit Number clicked, returned to login page
+2025-12-19 12:06:28 INFO  AuthPage:102 - Raw number in input: +91 63548-79523
+2025-12-19 12:06:28 INFO  AuthPage:107 - Extracted pure numeric mobile number: 916354879523
+2025-12-19 12:06:28 INFO  AuthPage:111 - Clearing mobile number field
+2025-12-19 12:06:29 INFO  AuthPage:117 - Mobile number field cleared
+2025-12-19 12:06:29 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 12:06:30 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 12:06:30 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 12:06:32 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 12:06:32 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 12:06:52 ERROR AuthPage:73 - OTP screen did not load
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'Edit Number')] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.146, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64282}, goog:processID: 16480, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64282/devtoo..., se:cdpVersion: 143.0.7499.146, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d075c5db18c90080293282df2ae4047a
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.21.0.jar:?]
+	at pages.auth.AuthPage.waitForOtpScreen(AuthPage.java:68) ~[test-classes/:?]
+	at tests.auth.VendorAuthTest.verifyCompleteVendorAuthFlow(VendorAuthTest.java:67) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.2.5.jar:3.2.5]
+2025-12-19 12:22:04 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 12:22:05 INFO  AuthPage:45 - Entering mobile number: 6354879523
+2025-12-19 12:22:08 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 12:22:08 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 12:22:09 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 12:22:09 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 12:22:11 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 12:22:11 INFO  AuthPage:79 - Clicking Edit Number link
+2025-12-19 12:22:11 INFO  AuthPage:82 - Edit Number clicked, returned to login page
+2025-12-19 12:22:12 INFO  AuthPage:102 - Raw number in input: +91 63548-79523
+2025-12-19 12:22:12 INFO  AuthPage:107 - Extracted pure numeric mobile number: 916354879523
+2025-12-19 12:22:12 INFO  AuthPage:125 - Clearing mobile number using keyboard backspace...
+2025-12-19 12:22:16 INFO  AuthPage:141 - Existing mobile cleared successfully
+2025-12-19 12:22:16 INFO  AuthPage:150 - Typing new dynamic mobile number: 9136159414
+2025-12-19 12:22:16 INFO  AuthPage:154 - Mobile number updated successfully
+2025-12-19 12:22:16 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 12:22:17 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 12:22:18 INFO  AuthPage:102 - Raw number in input: +91 91361-59414
+2025-12-19 12:22:18 INFO  AuthPage:107 - Extracted pure numeric mobile number: 919136159414
+2025-12-19 12:22:18 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:02:21 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 13:02:22 INFO  AuthPage:45 - Entering mobile number: 6354879523
+2025-12-19 13:02:23 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 13:02:23 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:02:23 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:02:23 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 13:02:25 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 13:02:25 INFO  AuthPage:79 - Clicking Edit Number link
+2025-12-19 13:02:26 INFO  AuthPage:82 - Edit Number clicked, returned to login page
+2025-12-19 13:02:27 INFO  AuthPage:102 - Raw number in input: +91 63548-79523
+2025-12-19 13:02:27 INFO  AuthPage:107 - Extracted pure numeric mobile number: 916354879523
+2025-12-19 13:02:27 INFO  AuthPage:125 - Clearing mobile number using keyboard backspace...
+2025-12-19 13:02:34 INFO  AuthPage:141 - Existing mobile cleared successfully
+2025-12-19 13:02:34 INFO  AuthPage:145 - Typing new dynamic mobile number: 9655981034
+2025-12-19 13:02:35 INFO  AuthPage:149 - Mobile number updated successfully
+2025-12-19 13:02:35 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:02:36 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:02:36 INFO  AuthPage:102 - Raw number in input: +91 96559-81034
+2025-12-19 13:02:36 INFO  AuthPage:107 - Extracted pure numeric mobile number: 919655981034
+2025-12-19 13:02:36 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:13:59 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 13:13:59 INFO  AuthPage:45 - Entering mobile number: 6354879523
+2025-12-19 13:14:00 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 13:14:00 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:14:01 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:14:01 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 13:14:02 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 13:14:02 INFO  AuthPage:79 - Clicking Edit Number link
+2025-12-19 13:14:03 INFO  AuthPage:82 - Edit Number clicked, returned to login page
+2025-12-19 13:14:03 INFO  AuthPage:102 - Raw number in input: +91 63548-79523
+2025-12-19 13:14:03 INFO  AuthPage:107 - Extracted pure numeric mobile number: 916354879523
+2025-12-19 13:14:03 INFO  AuthPage:125 - Clearing mobile number using keyboard backspace...
+2025-12-19 13:14:04 INFO  AuthPage:141 - Existing mobile cleared successfully
+2025-12-19 13:14:04 INFO  AuthPage:145 - Typing new dynamic mobile number: 9454945573
+2025-12-19 13:14:05 INFO  AuthPage:149 - Mobile number updated successfully
+2025-12-19 13:14:05 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:14:05 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:14:05 INFO  AuthPage:102 - Raw number in input: +91 94549-45573
+2025-12-19 13:14:05 INFO  AuthPage:107 - Extracted pure numeric mobile number: 919454945573
+2025-12-19 13:14:05 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:14:06 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:14:06 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 13:14:06 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 13:14:36 INFO  AuthPage:167 - Waiting for Resend OTP link to become clickable
+2025-12-19 13:14:36 INFO  AuthPage:170 - Resend OTP clicked
+2025-12-19 13:14:36 INFO  AuthPage:174 - Checking toast message visibility
+2025-12-19 13:16:57 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 13:16:57 INFO  AuthPage:45 - Entering mobile number: 6354879523
+2025-12-19 13:16:58 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 13:16:58 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:16:58 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:16:58 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 13:17:19 ERROR AuthPage:73 - OTP screen did not load
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'Edit Number')] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.146, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59345}, goog:processID: 2708, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59345/devtoo..., se:cdpVersion: 143.0.7499.146, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b80a3190a8c54b4f06e474ebbdead0fe
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.21.0.jar:?]
+	at pages.auth.AuthPage.waitForOtpScreen(AuthPage.java:68) ~[test-classes/:?]
+	at tests.auth.VendorAuthTest.verifyCompleteVendorAuthFlow(VendorAuthTest.java:42) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.2.5.jar:3.2.5]
+2025-12-19 13:18:31 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 13:18:32 INFO  AuthPage:45 - Entering mobile number: 6354879523
+2025-12-19 13:18:32 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 13:18:32 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:18:32 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:18:32 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 13:18:53 ERROR AuthPage:73 - OTP screen did not load
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'Edit Number')] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.146, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64227}, goog:processID: 17132, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64227/devtoo..., se:cdpVersion: 143.0.7499.146, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 17f6fa2798ccbcc0e1ba2ac53f268fd2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.21.0.jar:?]
+	at pages.auth.AuthPage.waitForOtpScreen(AuthPage.java:68) ~[test-classes/:?]
+	at tests.auth.VendorAuthTest.verifyCompleteVendorAuthFlow(VendorAuthTest.java:42) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.2.5.jar:3.2.5]
+2025-12-19 13:19:42 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 13:19:42 INFO  AuthPage:45 - Entering mobile number: 6354879528
+2025-12-19 13:19:43 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 13:19:43 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:19:43 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:19:43 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 13:19:45 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 13:19:45 INFO  AuthPage:79 - Clicking Edit Number link
+2025-12-19 13:19:45 INFO  AuthPage:82 - Edit Number clicked, returned to login page
+2025-12-19 13:19:46 INFO  AuthPage:102 - Raw number in input: +91 63548-79528
+2025-12-19 13:19:46 INFO  AuthPage:107 - Extracted pure numeric mobile number: 916354879528
+2025-12-19 13:19:46 INFO  AuthPage:125 - Clearing mobile number using keyboard backspace...
+2025-12-19 13:19:48 INFO  AuthPage:141 - Existing mobile cleared successfully
+2025-12-19 13:19:48 INFO  AuthPage:145 - Typing new dynamic mobile number: 9848486189
+2025-12-19 13:19:48 INFO  AuthPage:149 - Mobile number updated successfully
+2025-12-19 13:19:48 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:19:49 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:19:49 INFO  AuthPage:102 - Raw number in input: +91 98484-86189
+2025-12-19 13:19:49 INFO  AuthPage:107 - Extracted pure numeric mobile number: 919848486189
+2025-12-19 13:19:49 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:29:12 INFO  AuthPage:29 - config.properties loaded successfully
+2025-12-19 13:29:13 INFO  AuthPage:45 - Entering mobile number: 6354879528
+2025-12-19 13:29:13 INFO  AuthPage:53 - Mobile number entered successfully
+2025-12-19 13:29:13 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:29:14 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:29:14 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 13:29:16 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 13:29:16 INFO  AuthPage:79 - Clicking Edit Number link
+2025-12-19 13:29:16 INFO  AuthPage:82 - Edit Number clicked, returned to login page
+2025-12-19 13:29:17 INFO  AuthPage:102 - Raw number in input: +91 63548-79528
+2025-12-19 13:29:17 INFO  AuthPage:107 - Extracted pure numeric mobile number: 916354879528
+2025-12-19 13:29:17 INFO  AuthPage:125 - Clearing mobile number using keyboard backspace...
+2025-12-19 13:29:22 INFO  AuthPage:141 - Existing mobile cleared successfully
+2025-12-19 13:29:22 INFO  AuthPage:145 - Typing new dynamic mobile number: 9683916757
+2025-12-19 13:29:22 INFO  AuthPage:149 - Mobile number updated successfully
+2025-12-19 13:29:22 INFO  AuthPage:57 - Clicking Proceed button
+2025-12-19 13:29:23 INFO  AuthPage:60 - Proceed button clicked
+2025-12-19 13:29:23 INFO  AuthPage:102 - Raw number in input: +91 96839-16757
+2025-12-19 13:29:23 INFO  AuthPage:107 - Extracted pure numeric mobile number: 919683916757
+2025-12-19 13:29:23 INFO  AuthPage:66 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 13:29:25 INFO  AuthPage:70 - OTP screen loaded successfully
+2025-12-19 13:29:55 INFO  AuthPage:167 - Waiting for Resend OTP link to become clickable
+2025-12-19 13:29:55 INFO  AuthPage:170 - Resend OTP clicked
+2025-12-19 13:29:55 INFO  AuthPage:185 - Entering OTP: 123456
+2025-12-19 13:29:56 INFO  AuthPage:196 - OTP entered successfully
+2025-12-19 13:29:56 INFO  AuthPage:200 - Clicking Verify button
+2025-12-19 13:29:56 INFO  AuthPage:203 - Verify button clicked
+2025-12-19 14:49:48 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-19 14:49:49 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-19 14:49:50 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-19 14:49:50 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-19 14:49:51 INFO  AuthPage:63 - Proceed button clicked
+2025-12-19 14:49:51 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 14:49:57 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-19 14:49:57 INFO  AuthPage:82 - Clicking Edit Number link
+2025-12-19 14:49:59 INFO  AuthPage:85 - Edit Number clicked, returned to login page
+2025-12-19 14:50:00 INFO  AuthPage:105 - Raw number in input: +91 63548-79528
+2025-12-19 14:50:00 INFO  AuthPage:110 - Extracted pure numeric mobile number: 916354879528
+2025-12-19 14:50:00 INFO  AuthPage:128 - Clearing mobile number using keyboard backspace...
+2025-12-19 14:50:10 INFO  AuthPage:144 - Existing mobile cleared successfully
+2025-12-19 14:50:10 INFO  AuthPage:148 - Typing new dynamic mobile number: 9492506415
+2025-12-19 14:50:11 INFO  AuthPage:152 - Mobile number updated successfully
+2025-12-19 14:50:11 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-19 14:50:11 INFO  AuthPage:63 - Proceed button clicked
+2025-12-19 14:50:11 INFO  AuthPage:105 - Raw number in input: +91 94925-06415
+2025-12-19 14:50:11 INFO  AuthPage:110 - Extracted pure numeric mobile number: 919492506415
+2025-12-19 14:50:11 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 14:50:14 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-19 14:50:44 INFO  AuthPage:170 - Waiting for Resend OTP link to become clickable
+2025-12-19 14:50:45 INFO  AuthPage:173 - Resend OTP clicked
+2025-12-19 14:50:45 INFO  AuthPage:188 - Entering OTP: 123456
+2025-12-19 14:50:46 INFO  AuthPage:199 - OTP entered successfully
+2025-12-19 14:50:46 INFO  AuthPage:203 - Clicking Verify button
+2025-12-19 14:50:46 INFO  AuthPage:206 - Verify button clicked
+2025-12-19 14:50:46 INFO  AuthPage:213 - Checking registration page visibility
+2025-12-19 14:50:50 INFO  AuthPage:221 - Filling Business Details Section
+2025-12-19 14:50:52 INFO  AuthPage:240 - Phone number is disabled & validated
+2025-12-19 14:50:52 INFO  AuthPage:254 - Filling Address Details
+2025-12-19 17:54:57 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-19 17:55:00 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-19 17:55:05 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-19 17:55:05 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-19 17:55:08 INFO  AuthPage:63 - Proceed button clicked
+2025-12-19 17:55:08 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 17:55:13 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-19 17:55:13 INFO  AuthPage:82 - Clicking Edit Number link
+2025-12-19 17:55:15 INFO  AuthPage:85 - Edit Number clicked, returned to login page
+2025-12-19 17:55:16 INFO  AuthPage:105 - Raw number in input: +91 63548-79528
+2025-12-19 17:55:16 INFO  AuthPage:110 - Extracted pure numeric mobile number: 916354879528
+2025-12-19 17:55:16 INFO  AuthPage:128 - Clearing mobile number using keyboard backspace...
+2025-12-19 17:55:19 INFO  AuthPage:144 - Existing mobile cleared successfully
+2025-12-19 17:55:19 INFO  AuthPage:148 - Typing new dynamic mobile number: 9547116085
+2025-12-19 17:55:20 INFO  AuthPage:152 - Mobile number updated successfully
+2025-12-19 17:55:20 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-19 17:55:20 INFO  AuthPage:63 - Proceed button clicked
+2025-12-19 17:55:20 INFO  AuthPage:105 - Raw number in input: +91 95471-16085
+2025-12-19 17:55:20 INFO  AuthPage:110 - Extracted pure numeric mobile number: 919547116085
+2025-12-19 17:55:20 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-19 17:55:26 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-19 17:55:56 INFO  AuthPage:170 - Waiting for Resend OTP link to become clickable
+2025-12-19 17:55:56 INFO  AuthPage:173 - Resend OTP clicked
+2025-12-19 17:55:56 INFO  AuthPage:188 - Entering OTP: 123456
+2025-12-19 17:55:56 INFO  AuthPage:199 - OTP entered successfully
+2025-12-19 17:55:56 INFO  AuthPage:203 - Clicking Verify button
+2025-12-19 17:55:56 INFO  AuthPage:206 - Verify button clicked
+2025-12-19 17:55:56 INFO  AuthPage:213 - Checking registration page visibility
+2025-12-19 17:56:02 INFO  AuthPage:221 - Filling Business Details Section
+2025-12-19 17:56:03 INFO  AuthPage:240 - Phone number is disabled & validated
+2025-12-19 17:56:03 INFO  AuthPage:296 - Filling Address Details
+2025-12-19 17:56:03 INFO  AuthPage:281 - Clicking dropdown
+2025-12-19 19:00:58 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-19 19:00:59 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-20 09:44:13 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-20 09:44:14 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-20 09:44:15 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-20 09:44:15 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-20 09:44:16 INFO  AuthPage:63 - Proceed button clicked
+2025-12-20 09:44:16 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-20 09:44:37 ERROR AuthPage:76 - OTP screen did not load
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'Edit Number')] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.146, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58922}, goog:processID: 15144, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58922/devtoo..., se:cdpVersion: 143.0.7499.146, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: df5b8f0413c396898679bb4cf9fd9521
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.21.0.jar:?]
+	at pages.auth.AuthPage.waitForOtpScreen(AuthPage.java:71) ~[test-classes/:?]
+	at tests.auth.VendorAuthTest.verifyCompleteVendorAuthFlow(VendorAuthTest.java:42) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.2.5.jar:3.2.5]
+2025-12-20 09:54:03 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-20 09:54:03 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-20 09:54:05 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-20 09:54:05 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-20 09:54:05 INFO  AuthPage:63 - Proceed button clicked
+2025-12-20 09:54:05 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-20 09:54:06 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-20 09:54:06 INFO  AuthPage:82 - Clicking Edit Number link
+2025-12-20 09:54:07 INFO  AuthPage:85 - Edit Number clicked, returned to login page
+2025-12-20 09:54:07 INFO  AuthPage:105 - Raw number in input: +91 63548-79528
+2025-12-20 09:54:07 INFO  AuthPage:110 - Extracted pure numeric mobile number: 916354879528
+2025-12-20 09:54:07 INFO  AuthPage:128 - Clearing mobile number using keyboard backspace...
+2025-12-20 09:54:09 INFO  AuthPage:144 - Existing mobile cleared successfully
+2025-12-20 09:54:09 INFO  AuthPage:148 - Typing new dynamic mobile number: 9631069753
+2025-12-20 09:54:10 INFO  AuthPage:152 - Mobile number updated successfully
+2025-12-20 09:54:10 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-20 09:54:10 INFO  AuthPage:63 - Proceed button clicked
+2025-12-20 09:54:10 INFO  AuthPage:105 - Raw number in input: +91 96310-69753
+2025-12-20 09:54:10 INFO  AuthPage:110 - Extracted pure numeric mobile number: 919631069753
+2025-12-20 09:54:10 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-20 09:54:10 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-20 09:54:41 INFO  AuthPage:170 - Waiting for Resend OTP link to become clickable
+2025-12-20 09:54:41 INFO  AuthPage:173 - Resend OTP clicked
+2025-12-20 09:54:41 INFO  AuthPage:188 - Entering OTP: 123456
+2025-12-20 09:54:41 INFO  AuthPage:199 - OTP entered successfully
+2025-12-20 09:54:41 INFO  AuthPage:203 - Clicking Verify button
+2025-12-20 09:54:41 INFO  AuthPage:206 - Verify button clicked
+2025-12-20 09:54:41 INFO  AuthPage:213 - Checking registration page visibility
+2025-12-20 09:54:43 INFO  AuthPage:221 - Filling Business Details Section
+2025-12-20 09:54:44 INFO  AuthPage:240 - Phone number is disabled & validated
+2025-12-20 09:54:44 INFO  AuthPage:299 - Filling Address Details Section
+2025-12-20 09:54:44 INFO  AuthPage:282 - Clicking dropdown element
+2025-12-20 10:04:34 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-20 10:04:35 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-20 10:04:38 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-20 10:04:38 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-20 10:04:38 INFO  AuthPage:63 - Proceed button clicked
+2025-12-20 10:04:38 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-20 10:04:40 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-20 10:04:40 INFO  AuthPage:82 - Clicking Edit Number link
+2025-12-20 10:04:41 INFO  AuthPage:85 - Edit Number clicked, returned to login page
+2025-12-20 10:04:41 INFO  AuthPage:105 - Raw number in input: +91 63548-79528
+2025-12-20 10:04:42 INFO  AuthPage:110 - Extracted pure numeric mobile number: 916354879528
+2025-12-20 10:04:42 INFO  AuthPage:128 - Clearing mobile number using keyboard backspace...
+2025-12-20 10:04:43 INFO  AuthPage:144 - Existing mobile cleared successfully
+2025-12-20 10:04:43 INFO  AuthPage:148 - Typing new dynamic mobile number: 9090968770
+2025-12-20 10:04:44 INFO  AuthPage:152 - Mobile number updated successfully
+2025-12-20 10:04:44 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-20 10:04:44 INFO  AuthPage:63 - Proceed button clicked
+2025-12-20 10:04:44 INFO  AuthPage:105 - Raw number in input: +91 90909-68770
+2025-12-20 10:04:44 INFO  AuthPage:110 - Extracted pure numeric mobile number: 919090968770
+2025-12-20 10:04:44 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-20 10:04:45 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-20 10:05:15 INFO  AuthPage:170 - Waiting for Resend OTP link to become clickable
+2025-12-20 10:05:15 INFO  AuthPage:173 - Resend OTP clicked
+2025-12-20 10:05:15 INFO  AuthPage:188 - Entering OTP: 123456
+2025-12-20 10:05:16 INFO  AuthPage:199 - OTP entered successfully
+2025-12-20 10:05:16 INFO  AuthPage:203 - Clicking Verify button
+2025-12-20 10:05:16 INFO  AuthPage:206 - Verify button clicked
+2025-12-20 10:05:16 INFO  AuthPage:213 - Checking registration page visibility
+2025-12-20 10:05:17 INFO  AuthPage:221 - Filling Business Details Section
+2025-12-20 10:05:19 INFO  AuthPage:240 - Phone number is disabled & validated
+2025-12-20 10:05:19 INFO  AuthPage:310 - Filling Address Details Section
+2025-12-20 10:05:19 INFO  AuthPage:293 - Clicking dropdown element
+2025-12-20 10:26:06 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-20 10:26:07 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-22 12:03:17 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-22 12:03:18 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-22 12:03:19 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-22 12:03:19 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-22 12:03:19 INFO  AuthPage:63 - Proceed button clicked
+2025-12-22 12:03:19 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-22 12:03:22 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-22 12:03:22 INFO  AuthPage:82 - Clicking Edit Number link
+2025-12-22 12:03:22 INFO  AuthPage:85 - Edit Number clicked, returned to login page
+2025-12-22 12:03:22 INFO  AuthPage:105 - Raw number in input: +91 63548-79528
+2025-12-22 12:03:22 INFO  AuthPage:110 - Extracted pure numeric mobile number: 916354879528
+2025-12-22 12:03:23 INFO  AuthPage:128 - Clearing mobile number using keyboard backspace...
+2025-12-22 12:03:24 INFO  AuthPage:144 - Existing mobile cleared successfully
+2025-12-22 12:03:24 INFO  AuthPage:148 - Typing new dynamic mobile number: 9454767203
+2025-12-22 12:03:24 INFO  AuthPage:152 - Mobile number updated successfully
+2025-12-22 12:03:24 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-22 12:03:25 INFO  AuthPage:63 - Proceed button clicked
+2025-12-22 12:03:25 INFO  AuthPage:105 - Raw number in input: +91 94547-67203
+2025-12-22 12:03:25 INFO  AuthPage:110 - Extracted pure numeric mobile number: 919454767203
+2025-12-22 12:03:25 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-22 12:03:27 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-22 12:03:57 INFO  AuthPage:170 - Waiting for Resend OTP link to become clickable
+2025-12-22 12:03:57 INFO  AuthPage:173 - Resend OTP clicked
+2025-12-22 12:03:57 INFO  AuthPage:188 - Entering OTP: 123456
+2025-12-22 12:03:58 INFO  AuthPage:199 - OTP entered successfully
+2025-12-22 12:03:58 INFO  AuthPage:203 - Clicking Verify button
+2025-12-22 12:03:58 INFO  AuthPage:206 - Verify button clicked
+2025-12-22 12:03:58 INFO  AuthPage:213 - Checking registration page visibility
+2025-12-22 12:03:59 INFO  AuthPage:221 - Filling Business Details Section
+2025-12-22 12:04:00 INFO  AuthPage:240 - Phone number is disabled & validated
+2025-12-22 12:04:00 INFO  AuthPage:308 - Filling Address Details Section
+2025-12-22 12:04:00 INFO  AuthPage:291 - Clicking dropdown element
+2025-12-22 12:49:25 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-22 12:49:26 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-22 12:49:27 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-22 12:49:27 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-22 12:49:27 INFO  AuthPage:63 - Proceed button clicked
+2025-12-22 12:49:27 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-22 12:49:29 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-22 12:49:29 INFO  AuthPage:82 - Clicking Edit Number link
+2025-12-22 12:49:29 INFO  AuthPage:85 - Edit Number clicked, returned to login page
+2025-12-22 12:49:30 INFO  AuthPage:105 - Raw number in input: +91 63548-79528
+2025-12-22 12:49:30 INFO  AuthPage:110 - Extracted pure numeric mobile number: 916354879528
+2025-12-22 12:49:30 INFO  AuthPage:128 - Clearing mobile number using keyboard backspace...
+2025-12-22 17:43:54 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-22 17:43:56 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-22 17:43:58 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-22 17:43:58 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-22 17:43:59 INFO  AuthPage:63 - Proceed button clicked
+2025-12-22 17:43:59 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-22 17:44:04 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-22 17:44:04 INFO  AuthPage:82 - Clicking Edit Number link
+2025-12-22 17:44:05 INFO  AuthPage:85 - Edit Number clicked, returned to login page
+2025-12-22 17:44:06 INFO  AuthPage:105 - Raw number in input: +91 63548-79528
+2025-12-22 17:44:06 INFO  AuthPage:110 - Extracted pure numeric mobile number: 916354879528
+2025-12-22 17:44:06 INFO  AuthPage:128 - Clearing mobile number using keyboard backspace...
+2025-12-22 17:44:14 INFO  AuthPage:144 - Existing mobile cleared successfully
+2025-12-22 17:44:14 INFO  AuthPage:148 - Typing new dynamic mobile number: 9817707864
+2025-12-22 17:44:15 INFO  AuthPage:152 - Mobile number updated successfully
+2025-12-22 17:44:15 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-22 17:44:16 INFO  AuthPage:63 - Proceed button clicked
+2025-12-22 17:44:17 INFO  AuthPage:105 - Raw number in input: +91 98177-07864
+2025-12-22 17:44:17 INFO  AuthPage:110 - Extracted pure numeric mobile number: 919817707864
+2025-12-22 17:44:17 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-22 17:44:18 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-22 17:44:48 INFO  AuthPage:170 - Waiting for Resend OTP link to become clickable
+2025-12-22 17:44:55 INFO  AuthPage:173 - Resend OTP clicked
+2025-12-22 17:44:55 INFO  AuthPage:188 - Entering OTP: 123456
+2025-12-22 17:45:14 INFO  AuthPage:199 - OTP entered successfully
+2025-12-22 17:45:14 INFO  AuthPage:203 - Clicking Verify button
+2025-12-22 17:45:19 INFO  AuthPage:206 - Verify button clicked
+2025-12-22 17:45:19 INFO  AuthPage:213 - Checking registration page visibility
+2025-12-22 17:45:25 INFO  AuthPage:221 - Filling Business Details Section
+2025-12-22 17:45:35 INFO  AuthPage:240 - Phone number is disabled & validated
+2025-12-22 17:45:35 INFO  AuthPage:308 - Filling Address Details Section
+2025-12-22 17:45:35 INFO  AuthPage:291 - Clicking dropdown element
+2025-12-22 17:57:36 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-22 17:57:37 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-22 17:57:38 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-22 17:57:38 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-22 17:57:39 INFO  AuthPage:63 - Proceed button clicked
+2025-12-22 17:57:39 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-22 17:57:41 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-22 17:57:41 INFO  AuthPage:82 - Clicking Edit Number link
+2025-12-22 17:57:47 INFO  AuthPage:85 - Edit Number clicked, returned to login page
+2025-12-22 17:57:48 INFO  AuthPage:105 - Raw number in input: +91 63548-79528
+2025-12-22 17:57:48 INFO  AuthPage:110 - Extracted pure numeric mobile number: 916354879528
+2025-12-22 17:57:48 INFO  AuthPage:128 - Clearing mobile number using keyboard backspace...
+2025-12-22 17:58:00 INFO  AuthPage:144 - Existing mobile cleared successfully
+2025-12-22 17:58:00 INFO  AuthPage:148 - Typing new dynamic mobile number: 9882169459
+2025-12-22 17:58:02 INFO  AuthPage:152 - Mobile number updated successfully
+2025-12-22 17:58:02 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-22 17:58:03 INFO  AuthPage:63 - Proceed button clicked
+2025-12-22 17:58:03 INFO  AuthPage:105 - Raw number in input: +91 98821-69459
+2025-12-22 17:58:03 INFO  AuthPage:110 - Extracted pure numeric mobile number: 919882169459
+2025-12-22 17:58:03 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-22 17:58:04 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-22 17:58:34 INFO  AuthPage:170 - Waiting for Resend OTP link to become clickable
+2025-12-22 17:58:38 INFO  AuthPage:173 - Resend OTP clicked
+2025-12-22 17:58:38 INFO  AuthPage:188 - Entering OTP: 123456
+2025-12-22 17:58:46 INFO  AuthPage:199 - OTP entered successfully
+2025-12-22 17:58:46 INFO  AuthPage:203 - Clicking Verify button
+2025-12-22 17:58:48 INFO  AuthPage:206 - Verify button clicked
+2025-12-22 17:58:48 INFO  AuthPage:213 - Checking registration page visibility
+2025-12-22 17:58:54 INFO  AuthPage:221 - Filling Business Details Section
+2025-12-22 17:59:09 INFO  AuthPage:240 - Phone number is disabled & validated
+2025-12-22 17:59:09 INFO  AuthPage:260 - Filling Address Details Section
+2025-12-22 17:59:09 INFO  AuthPage:246 - Clicking dropdown element
+2025-12-23 11:13:29 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-23 11:13:31 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-23 11:13:32 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-23 11:13:32 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-23 11:13:32 INFO  AuthPage:63 - Proceed button clicked
+2025-12-23 11:13:32 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-23 11:13:34 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-23 11:13:34 INFO  AuthPage:82 - Clicking Edit Number link
+2025-12-23 11:13:35 INFO  AuthPage:85 - Edit Number clicked, returned to login page
+2025-12-23 11:13:35 INFO  AuthPage:105 - Raw number in input: +91 63548-79528
+2025-12-23 11:13:35 INFO  AuthPage:110 - Extracted pure numeric mobile number: 916354879528
+2025-12-23 11:13:36 INFO  AuthPage:128 - Clearing mobile number using keyboard backspace...
+2025-12-23 11:13:45 INFO  AuthPage:144 - Existing mobile cleared successfully
+2025-12-23 11:13:45 INFO  AuthPage:148 - Typing new dynamic mobile number: 9536311872
+2025-12-23 11:13:46 INFO  AuthPage:152 - Mobile number updated successfully
+2025-12-23 11:13:46 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-23 11:13:47 INFO  AuthPage:63 - Proceed button clicked
+2025-12-23 11:13:47 INFO  AuthPage:105 - Raw number in input: +91 95363-11872
+2025-12-23 11:13:47 INFO  AuthPage:110 - Extracted pure numeric mobile number: 919536311872
+2025-12-23 11:13:47 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-23 11:13:49 INFO  AuthPage:73 - OTP screen loaded successfully

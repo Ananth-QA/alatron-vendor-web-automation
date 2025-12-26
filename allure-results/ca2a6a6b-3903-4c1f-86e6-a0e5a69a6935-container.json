@@ -1,0 +1,1 @@
+{"uuid":"ca2a6a6b-3903-4c1f-86e6-a0e5a69a6935","name":"tests.auth.VendorAuthTest.setup","children":["d155df28-5e7b-4b2b-b142-335d64a35406"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1766468578998,"stop":1766468609344}],"afters":[],"start":1766468578995,"stop":1766468609360}

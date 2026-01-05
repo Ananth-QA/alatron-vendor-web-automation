@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tests.auth.YardLocationTest">
+      <class name="tests.auth.ProfileAccountTest">
         <methods>
           <include name="setUp"/>
-          <include name="verifyYardLocationFlow"/>
+          <include name="verifyAccountManagementFlow"/>
         </methods>
-      </class> <!-- tests.auth.YardLocationTest -->
+      </class> <!-- tests.auth.ProfileAccountTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -695,14 +695,13 @@ public void validateMaxFiveImagesAndProceed() throws InterruptedException {
 
         System.out.println("☎️ Contact Details Done");
 
-
+        Thread.sleep(2000);  
         // ---------- Continue ----------
         wait.until(ExpectedConditions.elementToBeClickable(get("continue.review.button"))).click();
 
         System.out.println("✅ STEP 3 Completed → Moving to Review Step");
     }
 
-    
     
     public void reviewAndSubmit() throws InterruptedException {
 

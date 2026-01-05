@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-03T13:20:00 IST" name="Default suite" finished-at="2026-01-03T13:23:29 IST" duration-ms="208534">
+  <suite started-at="2026-01-05T17:09:30 IST" name="Default suite" finished-at="2026-01-05T17:12:18 IST" duration-ms="168731">
     <groups>
     </groups>
-    <test started-at="2026-01-03T13:20:00 IST" name="Default test" finished-at="2026-01-03T13:23:29 IST" duration-ms="208534">
-      <class name="tests.auth.SupportPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.auth.SupportPageTest@58e1d9d]" started-at="2026-01-03T13:20:00 IST" name="setUp" finished-at="2026-01-03T13:20:09 IST" duration-ms="9179" status="PASS">
+    <test started-at="2026-01-05T17:09:30 IST" name="Default test" finished-at="2026-01-05T17:12:18 IST" duration-ms="168731">
+      <class name="tests.auth.AddGearTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.auth.AddGearTest@1be2019a]" started-at="2026-01-05T17:09:30 IST" name="setUp" finished-at="2026-01-05T17:09:42 IST" duration-ms="12735" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyHelpAndSupportFlow()[pri:0, instance:tests.auth.SupportPageTest@58e1d9d]" started-at="2026-01-03T13:20:10 IST" name="verifyHelpAndSupportFlow" finished-at="2026-01-03T13:23:29 IST" duration-ms="198830" status="PASS">
+        <test-method signature="verifyAddGearInfoStep()[pri:0, instance:tests.auth.AddGearTest@1be2019a]" started-at="2026-01-05T17:09:43 IST" name="verifyAddGearInfoStep" finished-at="2026-01-05T17:12:18 IST" duration-ms="154945" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyHelpAndSupportFlow -->
-      </class> <!-- tests.auth.SupportPageTest -->
+        </test-method> <!-- verifyAddGearInfoStep -->
+      </class> <!-- tests.auth.AddGearTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -20,13 +20,6 @@ public class BankDetailsPage {
         return By.xpath(ConfigLoader.get(key));
     }
  
-    
-    
-    
-    
-    
-    
-    
     private void logValue(String label, By locator){
         try{
             WebElement el = wait.until(ExpectedConditions.visibilityOfElementLocated(locator));

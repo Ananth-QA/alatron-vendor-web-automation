@@ -4,6 +4,15 @@
         <classes>
            <class name="tests.auth.VendorAuthTest"></class>
             <class name="tests.auth.AddGearTest"></class>
+            <class name="tests.auth.ProfileTest"></class>
+            <class name="tests.auth.ProfileAccountTest"></class>
+            <class name="tests.auth.BankDetailsTest"></class>
+            <class name="tests.auth.YardLocationTest"></class>
+            <class name="tests.auth.SalesTeamTest"></class>
+            <class name="tests.auth.PrivacySecurityTest"></class>
+            <class name="tests.auth.NotificationTest"></class>
+            <class name="tests.auth.SettingsPageTest"></class>
+            <class name="tests.auth.SupportPageTest"></class>
         </classes>
     </test>
 </suite>

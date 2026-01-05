@@ -10,7 +10,7 @@ public class BaseTest {
     protected WebDriver driver;
 
     @BeforeMethod
-    public void setUp() {
+    public void setUp() {	
         driver = DriverFactory.initDriver();
         driver.get(ConfigLoader.get("base.url"));
     }

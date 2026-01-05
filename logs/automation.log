@@ -705,3 +705,35 @@ Session ID: df5b8f0413c396898679bb4cf9fd9521
 2025-12-23 11:13:47 INFO  AuthPage:110 - Extracted pure numeric mobile number: 919536311872
 2025-12-23 11:13:47 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
 2025-12-23 11:13:49 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-31 13:12:33 INFO  AuthPage:32 - config.properties loaded successfully
+2025-12-31 13:12:34 INFO  AuthPage:48 - Entering mobile number: 6354879528
+2025-12-31 13:12:36 INFO  AuthPage:56 - Mobile number entered successfully
+2025-12-31 13:12:36 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-31 13:12:36 INFO  AuthPage:63 - Proceed button clicked
+2025-12-31 13:12:36 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-31 13:12:38 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-31 13:12:38 INFO  AuthPage:82 - Clicking Edit Number link
+2025-12-31 13:12:40 INFO  AuthPage:85 - Edit Number clicked, returned to login page
+2025-12-31 13:12:41 INFO  AuthPage:105 - Raw number in input: +91 63548-79528
+2025-12-31 13:12:41 INFO  AuthPage:110 - Extracted pure numeric mobile number: 916354879528
+2025-12-31 13:12:41 INFO  AuthPage:128 - Clearing mobile number using keyboard backspace...
+2025-12-31 13:12:50 INFO  AuthPage:144 - Existing mobile cleared successfully
+2025-12-31 13:12:50 INFO  AuthPage:148 - Typing new dynamic mobile number: 9656299687
+2025-12-31 13:12:50 INFO  AuthPage:152 - Mobile number updated successfully
+2025-12-31 13:12:50 INFO  AuthPage:60 - Clicking Proceed button
+2025-12-31 13:12:51 INFO  AuthPage:63 - Proceed button clicked
+2025-12-31 13:12:51 INFO  AuthPage:105 - Raw number in input: +91 96562-99687
+2025-12-31 13:12:51 INFO  AuthPage:110 - Extracted pure numeric mobile number: 919656299687
+2025-12-31 13:12:51 INFO  AuthPage:69 - Waiting for OTP screen (Edit Number link visible)
+2025-12-31 13:12:53 INFO  AuthPage:73 - OTP screen loaded successfully
+2025-12-31 13:13:23 INFO  AuthPage:170 - Waiting for Resend OTP link to become clickable
+2025-12-31 13:13:23 INFO  AuthPage:173 - Resend OTP clicked
+2025-12-31 13:13:23 INFO  AuthPage:188 - Entering OTP: 123456
+2025-12-31 13:13:25 INFO  AuthPage:199 - OTP entered successfully
+2025-12-31 13:13:25 INFO  AuthPage:203 - Clicking Verify button
+2025-12-31 13:13:25 INFO  AuthPage:206 - Verify button clicked
+2025-12-31 13:13:25 INFO  AuthPage:213 - Checking registration page visibility
+2025-12-31 13:13:27 INFO  AuthPage:221 - Filling Business Details Section
+2025-12-31 13:13:30 INFO  AuthPage:240 - Phone number is disabled & validated
+2025-12-31 13:13:30 INFO  AuthPage:260 - Filling Address Details Section
+2025-12-31 13:13:30 INFO  AuthPage:246 - Clicking dropdown element

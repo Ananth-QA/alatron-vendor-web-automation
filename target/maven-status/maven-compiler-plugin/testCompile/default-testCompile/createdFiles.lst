@@ -1,4 +1,0 @@
-base\BaseTest.class
-pages\auth\AuthPage.class
-tests\smoke\SmokeSuiteTest.class
-tests\auth\VendorAuthTest.class
